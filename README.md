@@ -6,9 +6,9 @@
     instagram       @patel_anandh
     facebook        @patelanand.india
     github          @anandp81
-    twitter         @patel_anandh
+    twitter         @patelanandh
     linkedin        https://www.linkedin.com/in/anandpatel81/
-    
+
 
 <!---
 anandp81/anandp81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
