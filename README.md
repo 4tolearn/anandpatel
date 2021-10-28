@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Anand Patel - @anandp81
+- 👋 Hi, I’m Anand Patel.
 - 👀 I’m interested in Google Cloud Platform - GCP Architecture role.
 - 🌱 I’m currently learning Google Cloud Platform and actively looking a progressive career in google cloud.
 - 💞️ I’m looking to collaborate on GCP.
 - 📫 How to reach me ... 
+    instagram       @patel_anandh
+    facebook        @patelanand.india
+    github          @anandp81
+    twitter         @patel_anandh
+    linkedin        https://www.linkedin.com/in/anandpatel81/
+    
 
 <!---
 anandp81/anandp81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
