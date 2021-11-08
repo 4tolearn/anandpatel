@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Google Cloud Platform and actively looking a progressive career in google cloud.
 - 💞️ I’m looking to collaborate on GCP.
 - 📫 How to reach me ... 
-    instagram       @patel_anandh
-    facebook        @patelanand.india
     github          @anandp81
     twitter         @patelanandh
     linkedin        https://www.linkedin.com/in/anandpatel81/
